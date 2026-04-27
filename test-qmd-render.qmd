@@ -1,0 +1,14 @@
+---
+title: "test repo code"
+author: "Maisie Prestridge"
+format: pdf
+---
+
+# 1. Set up
+
+```{r}
+#| label: packages
+
+library(tidyverse)
+```
+
